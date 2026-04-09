@@ -55,13 +55,6 @@ Resultado = 5.0
 | `*`     | Multiplicação  |
 | `/`     | Divisão        |
 
----
-
-## ⚠️ Observações
-
-- A divisão retorna `"Operação Inválida"` caso o divisor seja **zero** ou **negativo**.
-- Os valores de entrada são do tipo `double`, suportando números decimais.
-- O programa não trata entradas inválidas (ex.: letras no lugar de números).
 
 ---
 
